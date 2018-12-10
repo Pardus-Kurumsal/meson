@@ -1,3 +1,9 @@
+meson (0.47.2-2pardus1) onyedi; urgency=medium
+
+  * Pardus CI implementation
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Mon, 10 Dec 2018 14:50:22 +0300
+
 meson (0.47.2-1~bpo9+2) stretch-backports; urgency=medium
 
   * Fix LLVMDependency() to generate proper build flags with older LLVM
